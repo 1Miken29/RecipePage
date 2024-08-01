@@ -18,8 +18,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://1miken29.github.io/RecipePage/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-recipe-page-ooeZQuAv78)
+- Live Site URL: [Live](https://1miken29.github.io/RecipePage/)
 
 ## My process
 
